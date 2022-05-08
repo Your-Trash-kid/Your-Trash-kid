@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Your-Trash-kid
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Roblox Studio Coding
+- 🌱 I’m currently learning Python and getting into js
 - 📫 How to reach me: Discord https://discord.gg/fuXqzuWPvx
 
 <!---

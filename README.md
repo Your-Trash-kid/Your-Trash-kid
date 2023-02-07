@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Your-Trash-kid
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, html & css and getting into js
+- 🌱 I know Python & Lua and currently learning html, css & js
+- 📌 Currently focused on Case Clicker Mod Menu
 - 📫 How to reach me: Discord https://discord.gg/fuXqzuWPvx
 
 <!---

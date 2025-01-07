@@ -1,7 +1,6 @@
-- 👋 Hi, I’m [@Your-Trash-kid](https://github.com/Your-Trash-kid)
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m [@nichehlikes15](https://github.com/nichehlikes15)
 - 🌱 I know Python & Lua and currently learning html, css & js
-- 📌 Currently finshed on my [Case Clicker Mod Menu](https://github.com/Your-Trash-kid/CaseClickerHacks)
+- 📌 Currently finshed on my [Case Clicker Mod Menu](https://github.com/nichehlikes15/CaseClickerHacks)
 - 📫 My Discord: nichehlikes15
 
 <!---

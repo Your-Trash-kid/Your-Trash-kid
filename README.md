@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I know Python & Lua and currently learning html, css & js
 - 📌 Currently focused on my [Case Clicker Mod Menu](https://github.com/Your-Trash-kid/CaseClickerHacks)
-- 📫 My Discord: pᴉʞ ɥsɐɹʇ ɹ,noʎ#1399
+- 📫 My Discord: nichehlikes15
 
 <!---
 Your-Trash-kid/Your-Trash-kid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
